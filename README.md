@@ -20,5 +20,5 @@ This project implements an autonomous power-management and water-level monitorin
 * **Communication:** UART (Serial Debugging)
 
 ## 📁 Repository Contents
-* `Solar_Hybrid_Dewatering.ino`: The main system logic and IoT integration code.
+* `Solar_Hybrid_System.ino`: The main system logic and IoT integration code.
 * `diagram.json`: The circuit configuration for the Wokwi simulation.
