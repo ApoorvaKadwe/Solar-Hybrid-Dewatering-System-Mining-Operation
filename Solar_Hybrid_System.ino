@@ -1,7 +1,7 @@
 INITIAL UPLOAF OF SYSTEM LOGIC
-#define BLYNK_TEMPLATE_ID "TMPL3nBE3j2Ep"
+#define BLYNK_TEMPLATE_ID "Your_Blynk_Template_id"
 #define BLYNK_TEMPLATE_NAME "solar power dewatering"
-#define BLYNK_AUTH_TOKEN "f9BsRUV2SyKKx_31GhSWvuw1Xl7wrW9O"
+#define BLYNK_AUTH_TOKEN "You_Blynk_Token"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
