@@ -1,4 +1,4 @@
-**INITIAL UPLOAD OF SYSTEM LOGIC**
+INITIAL UPLOAD OF SYSTEM LOGIC
 #define BLYNK_TEMPLATE_ID "Your_Blynk_Template_id"
 #define BLYNK_TEMPLATE_NAME "solar power dewatering"
 #define BLYNK_AUTH_TOKEN "You_Blynk_Token"
